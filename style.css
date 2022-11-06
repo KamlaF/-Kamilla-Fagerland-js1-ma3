@@ -14,7 +14,7 @@ h1{ display: flex;
 }
 .spinner{
     border: 20px solid #f3f3f3;
-    border-top: 20px solid #343434;
+    border-top: 20px solid #CF8AF2;
     border-radius: 50%;
     width: 120px;
     height: 120px;
